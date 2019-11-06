@@ -54,9 +54,9 @@ body {
   
   #masthead {
     position: fixed;
-    z-index: 99;
+    z-index: 70;
     width: 100%;
-    margin: 0 0 30px;
+    margin: 0 0 20px;
     overflow: auto;
     color: #ffffff;
     background: #ffffff;
@@ -65,12 +65,12 @@ body {
   
   #logo {
     float: left;
-    width: 250px;
-    height: 90px;
+    width: 260px;
+    height: 65px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
     font-weight: 700;
-    line-height: 90px;
+    line-height: 65px;
     color: #ffffff;
     text-align: center;
     text-decoration: none;
